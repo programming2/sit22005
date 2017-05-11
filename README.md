@@ -1,4 +1,4 @@
-# SIT22005 Programming II 
+# SIT22005 Programming II a
 
 ## Course Objective
 The objective of the course is to help a student to build a development capability using object-oriented programming language. This course will introduce object-oriented programming concepts and its characteristics. Following items are the main objective of this course
